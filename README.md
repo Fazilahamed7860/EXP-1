@@ -79,7 +79,7 @@ b.  KCL:
 (https://github.com/user-attachments/assets/f58cbfec-50a2-494b-9a2a-8ba67b79a967)
 
 
-RESULT:![kvl and kcl exp](https://github.com/user-attachments/assets/5214fec3-4d1b-41c0-80e3-14feb5e0de07)
+RESULT:![kvl and kcl exp](https://github.com/user-attachments/assets/5214fec3-4d1b-41c0-80e3-14feb5e0de07).
 
 
 Thus, for the given circuit, Kirchhoff’s Laws, (a) KVL and (b) KCL are proved.
