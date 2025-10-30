@@ -1,4 +1,4 @@
-# EXP-1
+![kvl and kcl exp](https://github.com/user-attachments/assets/4d1b8bb3-4d0b-4364-a775-18ec505de5ec)# EXP-1
 EXPT NO: 1	VERIFICATION OF KIRCHHOFF’S LAWS
 AIM
 a.   To verify Kirchhoff’s Voltage Law (KVL) for the given circuit. 
@@ -10,7 +10,8 @@ S.No.	Components	Range	Quantity
 2	Voltmeter (DC)	0-30V	3
 3	Ammeter (DC)	(0-200)mA	3
 4	Bread Board		1
-5	Regulated Power Supply	(0-30)V	1
+5	Regulated Power Supply	(0-30)V	1!
+
 6	Connecting wires		As required
 
 THEORY:
@@ -77,6 +78,7 @@ b.  KCL:
 (https://github.com/user-attachments/assets/f58cbfec-50a2-494b-9a2a-8ba67b79a967)
 
 
-RESULT:
+RESULT:![kvl and kcl exp](https://github.com/user-attachments/assets/5214fec3-4d1b-41c0-80e3-14feb5e0de07)
+
 
 Thus, for the given circuit, Kirchhoff’s Laws, (a) KVL and (b) KCL are proved.
